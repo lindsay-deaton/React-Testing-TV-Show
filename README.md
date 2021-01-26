@@ -20,7 +20,7 @@ Get the project fired up and start using it as a user would. Try to go through t
 - [x] Add your team lead as collaborator on Github.
 - [x] Clone your OWN version of the repository in your terminal
 - [x] CD into the project base directory `cd React-Testing-TV-Show`
-- [x] Download project dependencies by running `npm install`
+- [x] Download project depende  ncies by running `npm install`
 - [x] Start up the app using `npm start`
 - [x] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
